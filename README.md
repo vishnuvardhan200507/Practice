@@ -1,2 +1,3 @@
 # Practice
-This is a sample Repo
+This is a sample Repo. 
+Author - vishnu vardhan
